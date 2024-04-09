@@ -32,7 +32,7 @@ public class Calculadora {
             int seleccionOperacion = sc.nextInt();
 
             switch (seleccionOperacion){
-                case 1:
+                case 1: // Suma
                     System.out.println("****************************************");
                     System.out.println("Operacion Suma.");
                     System.out.print("Inserta el primer numero: ");
@@ -43,7 +43,7 @@ public class Calculadora {
                     System.out.println("La suma de los numeros es :" + resultado);
                     System.out.println("****************************************");
                     break;
-                case 2:
+                case 2: // Resta
                     System.out.println("****************************************");
                     System.out.println("Operacion Resta.");
                     System.out.print("Inserta el primer numero: ");
@@ -54,7 +54,7 @@ public class Calculadora {
                     System.out.println("La resta de los numeros es :" + resultado);
                     System.out.println("****************************************");
                     break;
-                case 3:
+                case 3: //Multiplicacion
                     System.out.println("****************************************");
                     System.out.println("Operacion Multiplicacion.");
                     System.out.print("Inserta el primer numero: ");
@@ -65,7 +65,7 @@ public class Calculadora {
                     System.out.println("La multiplicacion de los numeros es :" + resultado);
                     System.out.println("****************************************");
                     break;
-                case 4:
+                case 4: //Division
                     System.out.println("****************************************");
                     System.out.println("Operacion Division.");
                     System.out.print("Inserta el primer numero: ");
@@ -76,11 +76,15 @@ public class Calculadora {
                     System.out.println("La division de los numeros es :" + resultado);
                     System.out.println("****************************************");
                     break;
-                case 5:
+                case 5: // Salir
                     System.out.println("****************************************");
                     System.out.println("++ Fin del programa, hazta luego ++");
                     System.out.println("****************************************");
                     estatus = false;
+                    break;
+                default: // Opcion  no valida
+                    System.out.println("Opcion no valida " + seleccionOperacion);
+
             }
         }
 
