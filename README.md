@@ -1,3 +1,12 @@
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 20%;"
+    src="Imagenes/java.png" 
+    alt="Our logo">
+</img>
+
 # Programacion en java
 
 ## Programas en Java.
