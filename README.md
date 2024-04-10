@@ -11,7 +11,7 @@
 
 ## Programas en Java.
 
-1. [ Hola mundo.](Calculadora)   
+1. [ Hola mundo.](HolaMundo)   
 |JAVA|
     
 > Pantalla que muestra mensaje en pantalla de Hola mundo!

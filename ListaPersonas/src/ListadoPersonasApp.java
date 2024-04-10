@@ -25,7 +25,7 @@ public class ListadoPersonasApp {
 
     private static void mostrarMenu(){
         System.out.print("""
-                **** Listado personas ****
+                **** Listado personas App ****
                 1. Agregar
                 2. Listar
                 3. Salir
@@ -39,7 +39,7 @@ public class ListadoPersonasApp {
         var salir = false;
 
         switch (opcion){
-            case 1 ->{
+            case 1 ->{ // Agregar persona a la lista
                 System.out.print("Nombre: ");
                 var nombre = consola.nextLine();
                 System.out.print("Telefono: ");
