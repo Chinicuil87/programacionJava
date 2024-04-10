@@ -20,8 +20,8 @@ public class Monitor {
     public String toString() {
         return "Monitor{" +
                 "idMonitor=" + idMonitor +
-                "\nmarca='" + marca + '\'' +
-                "\ntamanio=" + tamanio +
+                "\n marca='" + marca + '\'' +
+                "\n tamanio=" + tamanio +
                 '}';
     }
 }
