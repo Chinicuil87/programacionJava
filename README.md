@@ -44,4 +44,6 @@
 7. [Lista de personas. ](ListaPersonas)  
 |JAVA|
 
-> Agregar y ver la lista de personas. 
+> Agregar y ver la lista de personas.
+
+8. Catalogo de Personas
