@@ -48,3 +48,4 @@
 
 8. Catalogo de Personas.
 |JAVA|
+> Crea un archivo en el cual se pueden guardar el nombre de las peliculas, a si como listarlas  y buscar en que posicion se encuentran
