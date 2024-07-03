@@ -11,7 +11,9 @@ public class CalculadoraApp {
         while (true) {
 
             // Mostrar el nombre de la aplicacion.
+            System.out.println("********************************");
             System.out.println("**** Aplicacion calculadora ****");
+            System.out.println("********************************");
 
             // Muestra el menu de opciones.
             mostrarMenu();
@@ -67,19 +69,27 @@ public class CalculadoraApp {
         switch (seleccion) {
             case 1 -> { // suma
                 resultado = numero1 + numero2;
+                System.out.println("******************************************");
                 System.out.println("La suma de los numeros es igual a: " + +resultado);
+                System.out.println("******************************************");
             }
             case 2 -> { // resta
                 resultado = numero1 - numero2;
+                System.out.println("******************************************");
                 System.out.println("La resta de los numeros es igual a: " + resultado);
+                System.out.println("******************************************");
             }
             case 3 -> { // multiplicacion
                 resultado = numero1 * numero2;
+                System.out.println("******************************************");
                 System.out.println("La multiplicacion de los numeros es igual a: " + resultado);
+                System.out.println("******************************************");
             }
             case 4 -> { // division
                 resultado = numero1 / numero2;
+                System.out.println("******************************************");
                 System.out.println("La division de los numero es igual a: " + resultado);
+                System.out.println("******************************************");
             }
             default -> {
                 System.out.println("Opcion no valida: " + seleccion);

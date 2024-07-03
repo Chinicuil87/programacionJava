@@ -5,11 +5,11 @@ import java.util.Objects;
 public class Pelicula {
     private String nombre;
 
-    public Pelicula(){
+    // constructor vacio
+    public Pelicula(){}
 
-    }
-
-    public Pelicula(String nombre){
+    // Contructor con parametros
+    public Pelicula(String nombre) {
         this.nombre = nombre;
     }
 
@@ -38,8 +38,13 @@ public class Pelicula {
 
     @Override
     public String toString() {
-        return "Pelicula{" +
-                "nombre='" + nombre + '\'' +
-                '}';
+        return this.nombre;
+    }
+
+    public static void main(String[] args) {
+        var pelicula1 = new Pelicula("Batman");
+        var pelicula2 = new Pelicula("Superman");
+        System.out.println(pelicula1);
+        System.out.println(pelicula2);
     }
 }

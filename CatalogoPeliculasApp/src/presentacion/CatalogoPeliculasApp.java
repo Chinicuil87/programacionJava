@@ -31,18 +31,21 @@ public class CatalogoPeliculasApp {
 
     private static void mostrarMenu(){
         System.out.print("""
+                ******************************************
                 *** Catalogo de peliculas ***
+                ******************************************
                 1. Agregar pelicula
                 2. Lista de peliculas
                 3. Buscar peliculas
                 4. Salir
+                ******************************************
                 Elige una opcion: 
                 """);
     }
 
     private static boolean ejecutarOpciones(Scanner consola,
                                             IServicioPeliculas servicioPeliculas){
-        var opcion = consola.nextInt();
+        var opcion = Integer.parseInt(consola.nextLine());
         var salir = false;
         switch (opcion){
             case 1 -> {

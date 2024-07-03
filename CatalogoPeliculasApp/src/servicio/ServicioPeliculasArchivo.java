@@ -11,10 +11,12 @@ public class ServicioPeliculasArchivo implements IServicioPeliculas{
     public  ServicioPeliculasArchivo(){
         var archivo = new File(NOMBRE_ARCHIVO);
         try{
+            // Si ya existe el archivo no se vuerlve a crear.
             if (archivo.exists()){
                 System.out.println("El archivo ya existe!");
             }
             else {
+                // Si no existe el archivo se crea vacio-
                 var salida = new PrintWriter(new FileWriter(archivo));
                 salida.close();
                 System.out.println("Se a creado el arhivo.");
@@ -45,11 +47,48 @@ public class ServicioPeliculasArchivo implements IServicioPeliculas{
 
     @Override
     public void agregarPelicula(Pelicula pelicula) {
-
+        boolean anexar = false;
+        var archivo = new File(NOMBRE_ARCHIVO);
+        try{
+            anexar = archivo.exists();
+            var salida = new PrintWriter(new FileWriter(archivo, anexar));
+            salida.println(pelicula);
+            salida.close();
+            System.out.println("Se agrego al archivo el nombre de la pelicula: " + pelicula);
+        }catch (Exception  e){
+            System.out.println("Ocurrio un error al agregar pelicula: "+ e.getMessage());
+        }
     }
 
     @Override
     public void buscarPelicula(Pelicula pelicula) {
+        var archivo = new File(NOMBRE_ARCHIVO);
+        try{
+            var entrada = new BufferedReader(new FileReader(archivo));
+            String lineaTexto;
+            lineaTexto = entrada.readLine();
+            var indice= 1;
+            var encontrada = false;
+            var peliculaBuscar = pelicula.getNombre();
+            while (lineaTexto != null){
+                if(peliculaBuscar != null && peliculaBuscar.equalsIgnoreCase(lineaTexto)){
+                    encontrada = true;
+                    break;
+                }
+                lineaTexto = entrada.readLine();
+                indice++;
+            }
+            if(encontrada)
+                System.out.println("Pelicula"+ lineaTexto
+                        +" encontrada - linea" + indice);
+            else
+                System.out.println("No se encontro la pelicula: "
+                        + pelicula.getNombre());
+            entrada.close();
+        }
+        catch (Exception e){
+            System.out.println("Ocurrio un error al buscar el archivo: " + e.getMessage());
+        }
 
     }
 }
