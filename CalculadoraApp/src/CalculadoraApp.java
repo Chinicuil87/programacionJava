@@ -92,7 +92,9 @@ public class CalculadoraApp {
                 System.out.println("******************************************");
             }
             default -> {
+                System.out.println("******************************************");
                 System.out.println("Opcion no valida: " + seleccion);
+                System.out.println("******************************************");
             }
         } // fin switch
     }

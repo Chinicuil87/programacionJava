@@ -89,3 +89,7 @@ Nota: Con fecha de 8 de abril de 2014, Microsoft ha discontinuado Windows XP, co
    |JAVA|
 
 > Agregar y ver la lista de personas.
+
+8. Catalogo de Personas.
+   |JAVA|
+   > Crea un archivo en el cual se pueden guardar el nombre de las peliculas, a si como listarlas y buscar en que posicion se encuentran.

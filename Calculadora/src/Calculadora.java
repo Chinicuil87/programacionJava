@@ -9,86 +9,101 @@ public class Calculadora {
         double segundoNumero;
         double resultado;
         boolean estatus = true;
+        String separador = "**************************************************";
         String menu = """
-                Selecciona la operacion a realizar.
-                
+                 Menu Aplicacion
+
                 1. Suma
                 2. Resta
                 3. Multiplicacion
                 4. Division
                 5. Salir
-                
+                      
+               Selecciona una opcion:
                 """;
 
-        System.out.println("****************************************");
+        System.out.println(separador);
         System.out.println("Bienvenido a la Calculadora");
-        System.out.println("****************************************");
+        System.out.println(separador);
 
-
-
-        while (estatus){
+        while (estatus) {
 
             System.out.println(menu);
             int seleccionOperacion = sc.nextInt();
 
-            switch (seleccionOperacion){
-                case 1: // Suma
-                    System.out.println("****************************************");
+            switch (seleccionOperacion) {
+                case 1 -> {
+                    // Suma
+                    System.out.println(separador);
                     System.out.println("Operacion Suma.");
+                    System.out.println(separador);
                     System.out.print("Inserta el primer numero: ");
                     primerNumero = sc.nextDouble();
                     System.out.print("Inserta el segundo numero: ");
                     segundoNumero = sc.nextDouble();
                     resultado = primerNumero + segundoNumero;
+                    System.out.println(separador);
                     System.out.println("La suma de los numeros es :" + resultado);
-                    System.out.println("****************************************");
-                    break;
-                case 2: // Resta
-                    System.out.println("****************************************");
+                    System.out.println(separador);
+                }
+                case 2 -> {
+                    // Resta
+                    System.out.println(separador);
                     System.out.println("Operacion Resta.");
+                    System.out.println(separador);
                     System.out.print("Inserta el primer numero: ");
                     primerNumero = sc.nextDouble();
                     System.out.print("Inserta el segundo numero: ");
                     segundoNumero = sc.nextDouble();
                     resultado = primerNumero - segundoNumero;
+                    System.out.println(separador);
                     System.out.println("La resta de los numeros es :" + resultado);
-                    System.out.println("****************************************");
-                    break;
-                case 3: //Multiplicacion
-                    System.out.println("****************************************");
+                    System.out.println(separador);
+                }
+                case 3 -> {
+                    // Multiplicacion
+                    System.out.println(separador);
                     System.out.println("Operacion Multiplicacion.");
+                    System.out.println(separador);
                     System.out.print("Inserta el primer numero: ");
                     primerNumero = sc.nextDouble();
                     System.out.print("Inserta el segundo numero: ");
                     segundoNumero = sc.nextDouble();
                     resultado = primerNumero * segundoNumero;
+                    System.out.println(separador);
                     System.out.println("La multiplicacion de los numeros es :" + resultado);
-                    System.out.println("****************************************");
-                    break;
-                case 4: //Division
-                    System.out.println("****************************************");
+                    System.out.println(separador);
+                }
+                case 4 -> {
+                    // Division
+                    System.out.println(separador);
                     System.out.println("Operacion Division.");
+                    System.out.println(separador);
                     System.out.print("Inserta el primer numero: ");
                     primerNumero = sc.nextDouble();
                     System.out.print("Inserta el segundo numero: ");
                     segundoNumero = sc.nextDouble();
                     resultado = primerNumero / segundoNumero;
+                    System.out.println(separador);
                     System.out.println("La division de los numeros es :" + resultado);
-                    System.out.println("****************************************");
-                    break;
-                case 5: // Salir
-                    System.out.println("****************************************");
+                    System.out.println(separador);
+                }
+                case 5 -> {
+                    // Salir
+                    System.out.println(separador);
                     System.out.println("++ Fin del programa, hazta luego ++");
-                    System.out.println("****************************************");
+                    System.out.println(separador);
                     estatus = false;
-                    break;
-                default: // Opcion  no valida
+                }
+                default -> {
+                    // Opcion no valida
+                    System.out.println(separador);
                     System.out.println("Opcion no valida " + seleccionOperacion);
+                    System.out.println(separador);
+                }
 
             }
         }
-
-
 
     }
 }
