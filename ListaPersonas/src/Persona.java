@@ -61,10 +61,10 @@ public class Persona {
     @Override
     public String toString() {
         return "Persona{" +
-                "\nid= " + id +
-                "\nnombre= " + nombre +
-                "\ntel= " + tel +
-                "\nemail= " + email +
+                "\nId= " + id +
+                "\nNombre= " + nombre +
+                "\nTel= " + tel +
+                "\nEmail= " + email +
                 '}';
     }
 

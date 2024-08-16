@@ -1,9 +1,9 @@
 <p align="center">
-<img src="./img/hola-mundo.png"
+<img src="./img/tarjeta-de-presentacion.png"
  width="300">
 </p>
 
-<h1 align="center" id="holaMundo">HOLA MUNDO</h1>
+<h1 align="center" id="presentacion">PRESENTANDOME</h1>
 
 ## Insignias
 
@@ -13,7 +13,7 @@
 
 ## Índice
 
-1. [Hola Mundo](#holaMundo)
+1. [Presentandome](#presentacion)
 
 2. [Insignias](#insignias)
 
@@ -35,7 +35,7 @@
 
 ## Descripción del proyecto
 
-Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
+Programa de consola donde se muentra un mensaje con mi informacion en general.
 
 ## Estado del proyecto
 
@@ -51,32 +51,18 @@ FINALIZADO
 
 > Uso
 
-    -println
+    - println
+    - variables
 
 > Aplicacion de consola
 
-Codigo.
-
-```java
-public class HolaMundo {
-    public static void main(String[] args) {
-
-        System.out.println("******************************");
-        System.out.println("Hola Mundo!");
-        System.out.println("Primer Programa desde Java");
-        System.out.println("******************************");
-    }
-}
-
-```
-
 Resultado.
 
-![alt text](img/image.png)
+![alt text](img/resultado.png)
 
 ## Acceso al proyecto
 
-[Descarga los archivos desde Github]()
+[Descarga los archivos desd/e Github]()
 
 ## Tecnologías utilizadas
 

@@ -7,12 +7,15 @@
     alt="Our logo">
 </img>
 
-# Programacion en java
+<h1 align="center" id="titulo">PROGRAMACION EN JAVA </h1>
 
 ## Requisitos para programar en Java.
 
-Requisitos minimos de equipo de computo.  
-| Windows | | Mac | | Linux |
+Requisitos minimos de equipo de computo.
+
+![Static Badge](https://img.shields.io/badge/SISTEMA-WINDOWS-blue)
+![Static Badge](https://img.shields.io/badge/SISTEMA-MAC-white)
+![Static Badge](https://img.shields.io/badge/SISTEMA-LINUX-purple)
 
 > Windows  
 > Windows 10 (7u85 y superiores)  
@@ -48,7 +51,8 @@ Nota: Con fecha de 8 de abril de 2014, Microsoft ha discontinuado Windows XP, co
 
 ## Programas.
 
-[1. JDK (Java Development Kit)](https://www.oracle.com/mx/java/technologies/downloads/)  
+[1. JDK (Java Development Kit)](https://www.oracle.com/mx/java/technologies/downloads/)
+
 [2. IDE ](https://aws.amazon.com/es/what-is/ide/)  
  [- Intellij](https://www.jetbrains.com/idea/download/?section=windows)  
  [- NetBeans](https://netbeans.apache.org/front/main/download/)

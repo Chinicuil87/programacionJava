@@ -10,6 +10,8 @@ public class Orden {
     private final List<Computadora> computadoras;
     private static int contadorOrdenes;
 
+    String separador = "--------------------------------------------------";
+
     public Orden(){
         computadoras = new ArrayList<>();
         this.idOrden = ++contadorOrdenes;
@@ -20,7 +22,10 @@ public class Orden {
     }
 
     public void mostrarOrden(){
+        System.out.println(separador);
         System.out.println("Orden No: "+ idOrden);
+        System.out.println(separador);
+        System.out.println(separador);
         System.out.println("Total de computadoras: " + computadoras.size());
         computadoras.forEach(System.out::println);
     }

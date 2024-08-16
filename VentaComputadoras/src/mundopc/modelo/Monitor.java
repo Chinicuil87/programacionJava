@@ -18,10 +18,12 @@ public class Monitor {
 
     @Override
     public String toString() {
-        return "Monitor{" +
-                "idMonitor=" + idMonitor +
-                "\n marca='" + marca + '\'' +
-                "\n tamanio=" + tamanio +
-                '}';
+        return
+                "\n Monitor{" +
+                "\n idMonitor= " + idMonitor +
+                "\n marca= " + marca + '\'' +
+                "\n tamanio= " + tamanio +
+                '}'+
+                "\n--------------------------------------------------";
     }
 }

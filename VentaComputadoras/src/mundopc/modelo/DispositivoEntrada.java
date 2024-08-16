@@ -12,9 +12,11 @@ public class DispositivoEntrada {
 
     @Override
     public String toString() {
-        return "DispositivoEntrada{" +
-                "\ntipoDeEntrada=" + tipoDeEntrada +
-                "\nmarca=" + marca +
-                '}';
+        return "--------------------------------------------------" +
+                "\n DispositivoEntrada{" +
+                "\n tipoDeEntrada=" + tipoDeEntrada +
+                "\n marca=" + marca +
+                '}' +
+                "\n--------------------------------------------------";
     }
 }

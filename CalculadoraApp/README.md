@@ -1,19 +1,19 @@
 <p align="center">
-<img src="./img/hola-mundo.png"
+<img src="./img/calculadora.png"
  width="300">
 </p>
 
-<h1 align="center" id="holaMundo">HOLA MUNDO</h1>
+<h1 align="center" id="calculadora">CALCULADORA</h1>
 
 ## Insignias
 
-![Static Badge](https://img.shields.io/badge/CURSO-PRACTICA-green)
+![Static Badge](https://img.shields.io/badge/STATUS-TERMINADO-green)
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
 ![Static Badge](https://img.shields.io/badge/PROYECTO-Udemy-purple)
 
 ## Índice
 
-1. [Hola Mundo](#holaMundo)
+1. [CALCULADORA](#calculadora)
 
 2. [Insignias](#insignias)
 
@@ -35,7 +35,7 @@
 
 ## Descripción del proyecto
 
-Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
+    Calculadora es una aplicacion en consola, que muestra un menu, que permite elegir entre diferentes operaciones que podemos realizar.
 
 ## Estado del proyecto
 
@@ -45,34 +45,29 @@ FINALIZADO
 
 ## Características de la aplicación y demostración.
 
-> Lenguaje
+> Uso.
 
-    Java
+    - Variables
+    - Operadores
+    - Desiciones
+    - Ciclos
+    - Funciones
 
-> Uso
+> Menu de opciones.
 
-    -println
+    - Suma
+    - Resta
+    - Multiplicacion
+    - Division-
+    - Salir
 
-> Aplicacion de consola
+> Aplicacion menu
 
-Codigo.
+![Menu calculadora](./img/appcalculadora.png)
 
-```java
-public class HolaMundo {
-    public static void main(String[] args) {
+> Ejecucion de seleecion
 
-        System.out.println("******************************");
-        System.out.println("Hola Mundo!");
-        System.out.println("Primer Programa desde Java");
-        System.out.println("******************************");
-    }
-}
-
-```
-
-Resultado.
-
-![alt text](img/image.png)
+![Ejecucion eleccion](./img/ejecucion.png)
 
 ## Acceso al proyecto
 
@@ -88,4 +83,4 @@ Resultado.
 
 ## Personas-Desarrolladores del Proyecto
 
-| [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+| [<img src="./img/Imagen de WhatsApp 2024-04-03 a las 11.56.47_1cd72efb.jpg" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)

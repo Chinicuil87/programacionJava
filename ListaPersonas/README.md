@@ -1,19 +1,21 @@
 <p align="center">
-<img src="./img/hola-mundo.png"
+<img src="./img/lista.png"
  width="300">
 </p>
 
-<h1 align="center" id="holaMundo">HOLA MUNDO</h1>
+<h1 align="center" id="lista">LISTA DE PERSONAS</h1>
 
 ## Insignias
 
-![Static Badge](https://img.shields.io/badge/CURSO-PRACTICA-green)
+![Static Badge](https://img.shields.io/badge/STATUS-TERMINADO-green)
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
 ![Static Badge](https://img.shields.io/badge/PROYECTO-Udemy-purple)
 
 ## Índice
 
-1. [Hola Mundo](#holaMundo)
+1
+
+1. [LISTA DE PERSONAS](#lista)
 
 2. [Insignias](#insignias)
 
@@ -35,7 +37,7 @@
 
 ## Descripción del proyecto
 
-Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
+Aplicacion de consola que permite ir agregando a personas a una lista y mostrar la lista.
 
 ## Estado del proyecto
 
@@ -43,40 +45,30 @@ Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
 FINALIZADO
 </h4>
 
-## Características de la aplicación y demostración.
+## Características de la aplicación y demostración
 
-> Lenguaje
+> Uso.
 
-    Java
+    - Variables
+    - Desiciones
+    - Ciclos
+    - Funciones
+    - get y set
+    - POO
+    - Clases
+    - Encapsulamiento
+    - Atributos de clase.
 
-> Uso
+> Menu de opciones.
 
-    -println
-
-> Aplicacion de consola
-
-Codigo.
-
-```java
-public class HolaMundo {
-    public static void main(String[] args) {
-
-        System.out.println("******************************");
-        System.out.println("Hola Mundo!");
-        System.out.println("Primer Programa desde Java");
-        System.out.println("******************************");
-    }
-}
-
-```
-
-Resultado.
-
-![alt text](img/image.png)
+    - Agregar
+    - Listar
+    - Salir aplicacion
 
 ## Acceso al proyecto
 
-[Descarga los archivos desde Github]()
+[Descarga los archivos desde Github](https://github.com/Chinicuil87/conversor)  
+[Generar Key API](https://www.exchangerate-api.com/)
 
 ## Tecnologías utilizadas
 
@@ -84,8 +76,8 @@ Resultado.
 
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
 
-![Static Badge](https://img.shields.io/badge/JDK-21-red)
+![Static Badge](https://img.shields.io/badge/JDK-22-red)
 
 ## Personas-Desarrolladores del Proyecto
 
-| [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+| [<img src="./img/Imagen de WhatsApp 2024-04-03 a las 11.56.47_1cd72efb.jpg" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)

@@ -26,8 +26,11 @@ public class VentaComputadoras {
 
 
         Orden orden1 = new Orden();
-        orden1.agregarComputadora(computadoraHp);
         orden1.agregarComputadora(computadoraDell);
         orden1.mostrarOrden();
+
+        Orden  orden2 = new Orden();
+        orden2.agregarComputadora(computadoraHp);
+        orden2.mostrarOrden();
     }
 }
