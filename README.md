@@ -3,7 +3,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 20%;"
-    src="imagenes/java.png" 
+    src="img/java.png" 
     alt="Our logo">
 </img>
 
