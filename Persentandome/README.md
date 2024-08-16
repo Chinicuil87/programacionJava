@@ -62,7 +62,7 @@ Resultado.
 
 ## Acceso al proyecto
 
-[Descarga los archivos desd/e Github]()
+[Github](https://github.com/Chinicuil87/programacionJava/tree/main/Persentandome)
 
 ## Tecnologías utilizadas
 
