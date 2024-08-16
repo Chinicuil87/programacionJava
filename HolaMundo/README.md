@@ -76,7 +76,7 @@ Resultado.
 
 ## Acceso al proyecto
 
-[Descarga los archivos desde Github]()
+[Github](https://github.com/Chinicuil87/programacionJava/tree/main/HolaMundo)
 
 ## Tecnologías utilizadas
 
