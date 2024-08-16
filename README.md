@@ -64,7 +64,7 @@ Requisitos minimos de equipo de computo.
 > [Universidad Java - Cero a Experto - Actualizado (+150 hrs) (PROCESO) ](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=KEEPLEARNING)
 
 > TODO{ODE  
->  [Java para Principiantes](https://todocodeacademy.com/course/java-para-principiantes/)
+>  [Java para Principiantes (FINALIZADO)](https://todocodeacademy.com/course/java-para-principiantes/)
 
 ![Static Badge](https://img.shields.io/badge/CURSO-Udemy-purple)
 ![Static Badge](https://img.shields.io/badge/CURSO-YouTube-red)
