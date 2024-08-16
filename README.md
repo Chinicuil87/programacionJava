@@ -28,8 +28,6 @@ Requisitos minimos de equipo de computo.
 > Espacio en disco: 124 MB  
 > Exploradores: Internet Explorer 7.0 y superior, Firefox 3.6 y superior
 
-Nota: Con fecha de 8 de abril de 2014, Microsoft ha discontinuado Windows XP, con lo que ya no es una plataforma soportada. Los usuarios pueden continuar utilizando Java 7 en Windows XP bajo su responsabilidad, pero solo se proporciona soporte de Microsoft Windows con las versiones de Windows Vista o versiones posteriores. Consulte Third Party Vendor-Specific Support Terms on Oracle Software Technical Support Policies (Condiciones de soporte de terceros en los servicios de soporte Oracle) (pdf) para obtener más información.
-
 > Mac OS X  
 > Mac con Intel que ejecuta Mac OS X 10.7.3+, 10.8.3+, 10.9+  
 > Privilegios de administrador para la instalación  
@@ -57,43 +55,51 @@ Nota: Con fecha de 8 de abril de 2014, Microsoft ha discontinuado Windows XP, co
  [- Intellij](https://www.jetbrains.com/idea/download/?section=windows)  
  [- NetBeans](https://netbeans.apache.org/front/main/download/)
 
-## Programas en Java.
+## Cursos y plataformas.
 
-1. [ Hola mundo.](HolaMundo)  
-   |JAVA|
+> Codigo Facilito  
+> [Curso Profesional de JAVA (FINALIZADO)](https://codigofacilito.com/cursos/java-profesional)
 
-> Pantalla que muestra mensaje en pantalla de Hola mundo!
+> Udemy  
+> [Universidad Java - Cero a Experto - Actualizado (+150 hrs) (PROCESO) ](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=KEEPLEARNING)
 
-2. [Saludo Usuario.](SaludoUsuario)  
-   |JAVA|
+> TODO{ODE  
+>  [Java para Principiantes](https://todocodeacademy.com/course/java-para-principiantes/)
 
-> Solicta al usuario. su nombre y muentra un saludo personalizado.
+![Static Badge](https://img.shields.io/badge/CURSO-Udemy-purple)
+![Static Badge](https://img.shields.io/badge/CURSO-YouTube-red)
+![Static Badge](https://img.shields.io/badge/CURSO-CodigoFacilito-green)
+![Static Badge](https://img.shields.io/badge/CURSO-TODO{ODE-yellow)
 
-3. [Calculadora.](Calculadora)  
-   |JAVA|
+## Profesores
 
-> Permite usuario realizar operaciones basicas.
+Udemy.
+Ing. Ubaldo Acosta
 
-4. [Cuenta Bancaria.](CuentaBancaria)  
-   |JAVA|
+YouTube
+Ing. Prof. Luisina de Paula
 
-> Muestra los datos del cliente y puede realizar retiros y depositos.
+Codigo Facilito
+Ing. Eduardo Ismael Garcia
 
-5. [Numero secreto.](NumeroSecreto)  
-   |JAVA|
+## Practicas y ejercicios.
 
-> Juego de adivinar el numero secreto, con solo 5 oportinidades.
+[Hola Mundo!](HolaMundo)
 
-6. [CalculadoraApp. ](CalculadoraApp)  
-   |JAVA|
+[Saludo Usuario](SaludoUsuario)
 
-> Permite realizar operaciones basicas pero mejora el codigo en ejecucion.
+[Presentandome](Persentandome)
 
-7. [Lista de personas. ](ListaPersonas)  
-   |JAVA|
+[Detalle Persona](DetallePersona)
 
-> Agregar y ver la lista de personas.
+[Calculadora](CalculadoraApp)
 
-8. Catalogo de Personas.
-   |JAVA|
-   > Crea un archivo en el cual se pueden guardar el nombre de las peliculas, a si como listarlas y buscar en que posicion se encuentran.
+[Cuenta Bancaria](CuentaBancaria)
+
+[Numero Secreto](NumeroSecreto)
+
+[Lista de Personas](ListaPersonas)
+
+[Catalogo de Peliculas](CatalogoPeliculasApp)
+
+[Venta de Computadoras](VentaComputadoras)
