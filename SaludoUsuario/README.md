@@ -67,7 +67,7 @@ Resultado.
 
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionJava/tree/main/Producto)
+[Github](https://github.com/Chinicuil87/programacionJava/tree/main/SaludoUsuario)
 
 ## Tecnologías utilizadas
 
