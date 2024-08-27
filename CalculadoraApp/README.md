@@ -71,7 +71,7 @@ FINALIZADO
 
 ## Acceso al proyecto
 
-[Descarga los archivos desde Github]()
+[Descarga Github]()
 
 ## Tecnologías utilizadas
 
