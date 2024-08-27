@@ -56,9 +56,8 @@ FINALIZADO
 > Uso
 
     -println
-    -print
     -variables
-    -convertir variables
+    -canviar valor de las variables
 
 > Aplicacion de consola
 
