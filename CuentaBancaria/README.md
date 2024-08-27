@@ -3,7 +3,7 @@
  width="300">
 </p>
 
-<h1 align="center" id="Información">Cuenta de Banco</h1>
+<h1 align="center" id="Información">Cuenta Bancaria</h1>
 
 ## Insignias
 
@@ -17,7 +17,7 @@
 
 ## Índice
 
-1. [Cuenta de Banco](#Información)
+1. [Cuenta Bancaria](#Información)
 
 2. [Insignias](#insignias)
 
@@ -71,7 +71,7 @@ Resultado.
 
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionJava/tree/main/Producto)
+[Github](https://github.com/Chinicuil87/programacionJava/tree/main/CuentaBancaria)
 
 ## Tecnologías utilizadas
 
