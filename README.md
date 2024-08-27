@@ -13,9 +13,13 @@
 
 Requisitos minimos de equipo de computo.
 
+<section align="center">
+
 ![Static Badge](https://img.shields.io/badge/SISTEMA-WINDOWS-blue)
 ![Static Badge](https://img.shields.io/badge/SISTEMA-MAC-white)
 ![Static Badge](https://img.shields.io/badge/SISTEMA-LINUX-purple)
+
+</section>
 
 > Windows  
 > Windows 10 (7u85 y superiores)  
@@ -64,12 +68,16 @@ Requisitos minimos de equipo de computo.
 > [Universidad Java - Cero a Experto - Actualizado (+150 hrs) (PROCESO) ](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=KEEPLEARNING)
 
 > TODO{ODE  
->  [Java para Principiantes (FINALIZADO)](https://todocodeacademy.com/course/java-para-principiantes/)
+>  [Java para Principiantes (FINALIZDO)](https://todocodeacademy.com/course/java-para-principiantes/)
+
+<section align="center">
 
 ![Static Badge](https://img.shields.io/badge/CURSO-Udemy-purple)
 ![Static Badge](https://img.shields.io/badge/CURSO-YouTube-red)
 ![Static Badge](https://img.shields.io/badge/CURSO-CodigoFacilito-green)
 ![Static Badge](https://img.shields.io/badge/CURSO-TODO{ODE-yellow)
+
+</section>
 
 ## Profesores
 
@@ -82,6 +90,12 @@ Ing. Prof. Luisina de Paula
 Codigo Facilito
 Ing. Eduardo Ismael Garcia
 
+## Certificados.
+
+[Curso Profesional de JAVA](https://codigofacilito.com/certificates/f8611715-efcd-450f-8ff7-f7c6c0199dce)
+
+[Java para Principiantes](https://todocodeacademy.com/certificate/k1a/)
+
 ## Practicas y ejercicios.
 
 [Hola Mundo!](HolaMundo)
@@ -91,6 +105,8 @@ Ing. Eduardo Ismael Garcia
 [Presentandome](Persentandome)
 
 [Detalle Persona](DetallePersona)
+
+[Detalle de Producto](Producto)
 
 [Calculadora](CalculadoraApp)
 
