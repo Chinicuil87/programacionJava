@@ -13,7 +13,7 @@
 
 ## Índice
 
-1. [Información](#Información)
+1. [Detalle de Persona](#Información)
 
 2. [Insignias](#insignias)
 
@@ -52,9 +52,8 @@ FINALIZADO
 > Uso
 
     -println
-    -print
+    -scanner
     -variables
-    -convertir variables
 
 > Aplicacion de consola
 
