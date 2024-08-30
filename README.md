@@ -9,6 +9,8 @@
 
 <h1 align="center" id="titulo">PROGRAMACION EN JAVA </h1>
 
+Repositorio que contiene todos los proyectos y ejercicios hechos en Java durante los cursos, con la finalidad de brindar información de mis avances y habilidades adquiridas durante las certificaciones.
+
 ## Requisitos para programar en Java.
 
 Requisitos minimos de equipo de computo.
@@ -53,6 +55,14 @@ Requisitos minimos de equipo de computo.
 
 ## Programas.
 
+<section align="center">
+
+![Static Badge](https://img.shields.io/badge/IDE-Intellij-purple)
+![Static Badge](https://img.shields.io/badge/IDE-NetBeans-green)
+![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
+
+</section>
+
 [1. JDK (Java Development Kit)](https://www.oracle.com/mx/java/technologies/downloads/)
 
 [2. IDE ](https://aws.amazon.com/es/what-is/ide/)  
@@ -92,11 +102,17 @@ Ing. Eduardo Ismael Garcia
 
 ## Certificados.
 
-[Curso Profesional de JAVA](https://codigofacilito.com/certificates/f8611715-efcd-450f-8ff7-f7c6c0199dce)
+[<img src="./img/cfjava.png" width="230"  height="170"><br><sub> Curso Profesional de JAVA </sub>](https://codigofacilito.com/certificates/aa9a888b-dcf1-4606-9753-38d2bbfba848)
 
-[Java para Principiantes](https://todocodeacademy.com/certificate/k1a/)
+[<img src="./img/tcjava.png" width="230"  height="170"><br><sub> Java para Principiantes </sub>](https://todocodeacademy.com/certificate/k1a/)
 
 ## Practicas y ejercicios.
+
+A. General
+
+B. Udemy
+
+C. YouTube
 
 [Hola Mundo!](HolaMundo)
 
@@ -119,3 +135,11 @@ Ing. Eduardo Ismael Garcia
 [Catalogo de Peliculas](CatalogoPeliculasApp)
 
 [Venta de Computadoras](VentaComputadoras)
+
+## Personas-Desarrolladores del Proyecto
+
+<section align="center">
+
+[<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+
+</section>
