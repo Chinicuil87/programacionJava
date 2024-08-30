@@ -1,11 +1,7 @@
-<img align="center"
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 20%;"
-    src="img/java.png" 
-    alt="Our logo">
-</img>
+<p align="center">
+<img src="./img/java.png"
+ width="300">
+</p>
 
 <h1 align="center" id="titulo">PROGRAMACION EN JAVA </h1>
 
