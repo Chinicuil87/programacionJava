@@ -71,7 +71,7 @@ FINALIZADO
 
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionJava/tree/main/HolaMundo)
+[Github](https://github.com/Chinicuil87/programacionJava/tree/main/ZonaFit)
 
 ## Tecnologías utilizadas
 
