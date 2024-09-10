@@ -1,0 +1,17 @@
+# Use root/example as user/password credentials
+version: '3.1'
+
+services:
+
+  db:
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_USER:${SPRING_DATABASE_USERNAME}
+      MYSQL_PASSWORD:${SPRING_DATABASE_PASSWORD}
+      MYSQL_DB:${SPRING_DATABASE_DB}
+    ports:
+      -"3306:3306"
+    volumes:
+      - ./mysql:/var/lib/mysql/data
+
