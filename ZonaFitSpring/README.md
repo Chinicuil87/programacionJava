@@ -81,7 +81,7 @@ FINALIZADO
 
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionJava/tree/main/ZonaFit)
+[Github](https://github.com/Chinicuil87/programacionJava/tree/main/ZonaFitSpring)
 
 ## Tecnologías utilizadas
 
