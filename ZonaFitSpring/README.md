@@ -38,7 +38,7 @@
 
 ## Descripción del proyecto
 
-Aplicacion de consola, que usa el Frameword SpringBoot y que se conecta a una Base de Datos de MySQL para poder realizar un CRUD.
+Aplicacion de consola, que usa el Framework SpringBoot y que se conecta a una Base de Datos de MySQL para poder realizar un CRUD.
 
 Este programa simula la administracion de usuarios de un GYM.
 
