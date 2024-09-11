@@ -1,9 +1,9 @@
 <p align="center">
-<img src="./img/gym.png"
+<img src="./img/spring.png"
  width="300">
 </p>
 
-<h1 align="center" id="fit">Zona Fit</h1>
+<h1 align="center" id="spring">Zona Fit SpringBoot</h1>
 
 ## Insignias
 
@@ -16,7 +16,7 @@
 
 ## Índice
 
-1. [Zona Fit](#fit)
+1. [Zona Fit](#spring)
 
 2. [Insignias](#insignias)
 
@@ -38,7 +38,7 @@
 
 ## Descripción del proyecto
 
-Aplicacion de consola, que se conecya a una Base de Datos de MySQL para poder realizar un CRUD.
+Aplicacion de consola, que usa el Frameword SpringBoot y que se conecta a una Base de Datos de MySQL para poder realizar un CRUD.
 
 Este programa simula la administracion de usuarios de un GYM.
 
@@ -54,8 +54,16 @@ FINALIZADO
 
     Java
 
+> Dependencias.
+
+    Spring Data JPA   
+    MySQL Driver       
+    Lombok
+
+
 > Uso
 
+    -SpringBoot
     -Maven
     -MySQL
 
@@ -67,9 +75,9 @@ FINALIZADO
 
 ![alt text](img/image.png)
 
-> Menu Aplicacion
+> Aplicacion Ejecucion
 
-![alt text](img/image2.png)
+![alt text](img/image1.png)
 
 ## Acceso al proyecto
 
@@ -80,6 +88,7 @@ FINALIZADO
 <section align="center">
 
 ![Static Badge](https://img.shields.io/badge/IDE-IntelliJ-purple)
+![Static Badge](https://img.shields.io/badge/Spring-3.3.3-green)
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
 ![Static Badge](https://img.shields.io/badge/JAVA-Maven-blue)
 ![Static Badge](https://img.shields.io/badge/JDK-22-red)
