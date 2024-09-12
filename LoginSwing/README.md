@@ -1,9 +1,9 @@
 <p align="center">
-<img src="./img/gym.png"
+<img src="./img/loginn.png"
  width="300">
 </p>
 
-<h1 align="center" id="fit">Zona Fit</h1>
+<h1 align="center" id="login">Login</h1>
 
 ## Insignias
 
@@ -11,12 +11,13 @@
 
 ![Static Badge](https://img.shields.io/badge/CURSO-PRACTICA-green)
 ![Static Badge](https://img.shields.io/badge/PROYECTO-Udemy-purple)
+![Static Badge](https://img.shields.io/badge/JAVA-Swing-red)
 
 </section>
 
 ## Índice
 
-1. [Zona Fit](#fit)
+1. [Login](#login)
 
 2. [Insignias](#insignias)
 
@@ -38,9 +39,8 @@
 
 ## Descripción del proyecto
 
-Aplicacion de consola, que se conecya a una Base de Datos de MySQL para poder realizar un CRUD.
-
-Este programa simula la administracion de usuarios de un GYM.
+Aplicacion de escritorio, el cual muestra en pantalla una ventana de login.
+Se usa la paqueteria de Swins de Java, uno de botones y cuadros de texto.
 
 ## Estado del proyecto
 
@@ -52,24 +52,27 @@ FINALIZADO
 
 > Lenguaje
 
-    Java
+    - Java
+
+> Dependencias.
+
+    - Flatlaf
 
 > Uso
 
     -Maven
-    -MySQL
+    -Swing
+    -JFrame
 
-> Aplicacion de consola
-
-    CRUD
+> Aplicacion de escritorio.
 
 > Esquema de aplicacion
 
 ![alt text](img/image.png)
 
-> Menu Aplicacion
+> Aplicacion Ejecucion
 
-![alt text](img/image2.png)
+![alt text](img/image1.png)
 
 ## Acceso al proyecto
 
@@ -80,6 +83,7 @@ FINALIZADO
 <section align="center">
 
 ![Static Badge](https://img.shields.io/badge/IDE-IntelliJ-purple)
+![Static Badge](https://img.shields.io/badge/Spring-3.3.3-green)
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
 ![Static Badge](https://img.shields.io/badge/JAVA-Maven-blue)
 ![Static Badge](https://img.shields.io/badge/JDK-22-red)
