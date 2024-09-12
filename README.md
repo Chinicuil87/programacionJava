@@ -62,8 +62,9 @@ Requisitos minimos de equipo de computo.
 [1. JDK (Java Development Kit)](https://www.oracle.com/mx/java/technologies/downloads/)
 
 [2. IDE ](https://aws.amazon.com/es/what-is/ide/)  
- [- Intellij](https://www.jetbrains.com/idea/download/?section=windows)  
- [- NetBeans](https://netbeans.apache.org/front/main/download/)
+[- Intellij](https://www.jetbrains.com/idea/download/?section=windows)  
+[- NetBeans](https://netbeans.apache.org/front/main/download/)  
+[- VSC](https://code.visualstudio.com/)
 
 ## Cursos y plataformas.
 
@@ -104,33 +105,30 @@ Ing. Eduardo Ismael Garcia
 
 ## Practicas y ejercicios.
 
-A. General
+1. General
 
-B. Udemy
-
-C. YouTube
-
-[Hola Mundo!](HolaMundo)
-
-[Saludo Usuario](SaludoUsuario)
-
-[Presentandome](Persentandome)
-
-[Detalle Persona](DetallePersona)
-
-[Detalle de Producto](Producto)
-
+[Hola Mundo!](HolaMundo)  
+[Saludo Usuario](SaludoUsuario)  
 [Calculadora](CalculadoraApp)
 
-[Cuenta Bancaria](CuentaBancaria)
+2. Udemy
+
+[Presentandome](Persentandome)  
+[Detalle Persona](DetallePersona)  
+[Reserva de Hotel](ReservaHotel)
+[Detalle de Producto](Producto)  
+[Cuenta Bancaria](CuentaBancaria)  
+[Lista de Personas](ListaPersonas)  
+[Catalogo de Peliculas](CatalogoPeliculasApp)  
+[Venta de Computadoras](VentaComputadoras)  
+[Login Swing](LoginSwing)  
+[Zona Fit](ZonaFit)  
+[Zona Fit Spring](ZonaFitSpring)
+
+3. YouTube
 
 [Numero Secreto](NumeroSecreto)
-
-[Lista de Personas](ListaPersonas)
-
-[Catalogo de Peliculas](CatalogoPeliculasApp)
-
-[Venta de Computadoras](VentaComputadoras)
+[ApiRest](apirest)
 
 ## Personas-Desarrolladores del Proyecto
 
