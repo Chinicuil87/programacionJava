@@ -40,7 +40,7 @@
 ## Descripción del proyecto
 
 Aplicacion de escritorio, el cual muestra en pantalla una ventana de login.
-Se usa la paqueteria de Swins de Java, uno de botones y cuadros de texto.
+Se usa la paqueteria de Swins de Java, uso de botones y cuadros de texto.
 
 ## Estado del proyecto
 
