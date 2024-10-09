@@ -7,9 +7,13 @@
 
 ## Insignias
 
+<section align="center" >
+
 ![Static Badge](https://img.shields.io/badge/CURSO-PRACTICA-green)
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
 ![Static Badge](https://img.shields.io/badge/PROYECTO-Udemy-purple)
+
+</section>
 
 ## Índice
 
@@ -23,15 +27,15 @@
 
 5. [Estado del proyecto](#Estado-del-proyecto)
 
-6. [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+6. [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
 
-7. [Acceso al proyecto](#acceso-proyecto)
+7. [Acceso al proyecto](#acceso-al-proyecto)
 
 8. [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-9. [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+9. [Personas-Desarrolladores del Proyecto](#desarrollador-del-proyecto)
 
-10. [Conclusión](#conclusión)
+10. [Redes Sociales](#redes-sociales)
 
 ## Descripción del proyecto
 
@@ -92,7 +96,7 @@ Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
 
 </section>
 
-## Personas-Desarrolladores del Proyecto
+## Desarrollador del Proyecto
 
 <section align="center">
 
