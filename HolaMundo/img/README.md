@@ -39,7 +39,7 @@
 
 ## Descripción del proyecto
 
-Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
+Este es primer programa que muestra en cosola el famoso saludo de Hola Mundo.
 
 ## Estado del proyecto
 
@@ -55,20 +55,19 @@ Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
 
     Java
 
-> Herramientas y dependecias.
-
-    -Maven
-    -Swing
-    -FlatLaf
-
 > Tipo de Aplicacion.
 
     -Consola
-    -Escritorio
 
 > Resultado Consola.
 
 ![alt text](img/image.png)
+
+> Resultado Escritorio.
+
+![alt text](img/desk1.png)
+
+![alt text](img/desk2.png)
 
 ## Acceso al proyecto
 
