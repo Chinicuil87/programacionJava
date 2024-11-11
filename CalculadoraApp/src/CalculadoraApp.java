@@ -37,15 +37,13 @@ public class CalculadoraApp {
                     System.out.println("                   Vuelva pronto");
                     System.out.println(separador);
                     break;
-                }
-
-                else {
+                } else {
                     System.out.println("Opcion no valida: " + seleccion);
                 }
                 System.out.println();
 
             } // fin try
-            catch (Exception e){
+            catch (Exception e) {
                 System.out.println("Ocurrio un error: " + e.getMessage());
             }// fin catch
 
@@ -53,19 +51,19 @@ public class CalculadoraApp {
 
     }// fin main
 
-    private static void mostrarMenu(){
+    private static void mostrarMenu() {
 
         String separador = "--------------------------------------------------";
 
         System.out.println("""
-                                           MENU
-                        
-                    1. Suma
-                    2. Resta
-                    3. Multiplicacion
-                    4. Division
-                    5. Salir
-                    """);
+                                       MENU
+                
+                1. Suma
+                2. Resta
+                3. Multiplicacion
+                4. Division
+                5. Salir
+                """);
 
         // Solicita al usuario escoja una opcion.
 
@@ -73,7 +71,7 @@ public class CalculadoraApp {
         System.out.print("Seleccione la opcion deseada: ");
     }
 
-    private static void ejecutarOperacion(int seleccion, Scanner sc){
+    private static void ejecutarOperacion(int seleccion, Scanner sc) {
 
         System.out.print("Ingresa el primer numero: ");
         var numero1 = Integer.parseInt(sc.nextLine());

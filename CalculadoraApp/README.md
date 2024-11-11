@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/calculadora.png"
+<img src="../../../CalculadoraApp/img/calculadora.png"
  width="300">
 </p>
 
@@ -63,11 +63,11 @@ FINALIZADO
 
 > Aplicacion menu
 
-![Menu calculadora](./img/appcalculadora.png)
+![Menu calculadora](../../../CalculadoraApp/img/appcalculadora.png)
 
 > Ejecucion de seleecion
 
-![Ejecucion eleccion](./img/ejecucion.png)
+![Ejecucion eleccion](../../../CalculadoraApp/img/ejecucion.png)
 
 ## Acceso al proyecto
 
