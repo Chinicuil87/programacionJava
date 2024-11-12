@@ -55,16 +55,9 @@ Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
 
     Java
 
-> Herramientas y dependecias.
-
-    -Maven
-    -Swing
-    -FlatLaf
-
 > Tipo de Aplicacion.
 
     -Consola
-    -Escritorio
 
 > Resultado Consola.
 
@@ -119,6 +112,9 @@ Este es primer programa que muestra en pantalla en famoso saludo de Hola Mundo.
 </a>
 <a href="https://app.aluracursos.com/user/clopezorihuela">
 <img src="../img/alura.png" alt="icono alura" style="width:42px;height:42px;">
+</a>
+<a href="https://github.com/Chinicuil87">
+<img src="../img/github.png" alt="icono github" style="width:42px;height:42px;">
 </a>
 
 </section>
